@@ -13,7 +13,6 @@
 - 💻 Experienced in managing software teams as a Product Owner, now focused on hands-on development and architecture.
 - 🌱 Currently expanding my skills in Linux shell scripting and integrating AI models into applications.
 
-
 ### 🌐 Socials
 
 <p align="left">
@@ -26,9 +25,8 @@
 
 **Programming Languages & Frameworks**
 
-[![Programming Languages](https://skillicons.dev/icons?i=py,flask,js,react,html,css,sql,bash)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=py,flask,js,react,html,css,bootstrap,sqlite,selenium,bash)](https://skillicons.dev)
 
 **Tools & Environment**
 
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,linux)](https://skillicons.dev)
-
+[![Tools](https://skillicons.dev/icons?i=pycharm,vscode,git,github,linux,terminal)](https://skillicons.dev)
