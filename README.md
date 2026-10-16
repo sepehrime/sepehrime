@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jay Sepehri 👋</h1>
 
 <p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+%26+Flask;Svelte+Enthusiast;AI+Integrator" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+%26+Visualization;JavaScript;AI+Enthusiast;AI+Solutions+Integrator" />
 </p>
 
 ---
