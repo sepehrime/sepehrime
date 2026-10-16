@@ -26,7 +26,7 @@
 
 **Programming Languages & Frameworks**
 
-[![Programming Languages](https://skillicons.dev/icons?i=py,flask,js,svelte,html,css,bash)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=py,flask,js,react,html,css,sql,bash)](https://skillicons.dev)
 
 **Tools & Environment**
 
