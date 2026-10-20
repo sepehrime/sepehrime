@@ -6,14 +6,14 @@
 
 ---
 
-### 🙋 About Me
+### About Me
 
-- 🛠️ Full-stack web developer transitioning from an 11-year career in the oil & gas industry.
-- 🔧 Focused on building web applications, API routes, and database operations using **Python (Flask, SQLAlchemy)** and **JavaScript**.
-- 💻 Experienced in managing software teams as a Product Owner, now focused on hands-on development and architecture.
-- 🌱 Currently expanding my skills in Linux shell scripting and integrating AI models into applications.
+- Full-stack web developer transitioning from an 11-year career in the oil & gas industry.
+- Focused on building web applications, API routes, and database operations using **Python (Flask, SQLAlchemy)** and **JavaScript**.
+- Experienced in managing software teams as a Product Owner, now focused on hands-on development and architecture.
+- Currently expanding my skills in Linux shell scripting and integrating AI models into applications.
 
-### 🌐 Socials
+### Socials
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jaysepehri/"><img alt="LinkedIn Badge" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white" /></a>
@@ -21,7 +21,7 @@
   <a href="mailto:sepehri.jay@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-sepehri.jay-c14438?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Programming Languages & Frameworks**
 
