@@ -44,5 +44,5 @@
 ### GitHub Stats
 
 <p align="left">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrime&layout=compact&hide_border=true&langs_count=6" />
+  <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sepehrime&theme=default" />
 </p>
