@@ -35,7 +35,7 @@
 
 **Programming Languages & Frameworks**
 
-[![Programming Languages](https://skillicons.dev/icons?i=py,flask,js,react,html,css,bootstrap,sqlite,selenium,bash)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=py,pytorch,sklearn,js,react,html,css,bootstrap,sqlite,bash)](https://skillicons.dev)
 
 **Tools & Environment**
 
