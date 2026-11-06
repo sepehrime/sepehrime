@@ -18,16 +18,16 @@
 
 | Project                                                          | What it is                                                                                                                                                                     | Built with                                          |
 | :--------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------- |
-| 🧠&nbsp;**[Imagine](https://github.com/sepehrime/Imagine)**           | _Inside the Network_: an interactive explainer of how neural networks work. Build a network, run data through it, train it, and watch every weight change live in the browser. | React · FastAPI · PyTorch · Tailwind · Playwright   |
-| 🛢️&nbsp;**[WellLogQ&#8209;A](https://github.com/sepehrime/WellLogQ-A)**     | Ask plain-English questions about a well log (LAS file). An LLM picks which tool to run, and plain Python computes every number, so answers stay traceable.                    | Python · pandas · Plotly · OpenRouter LLMs · pytest |
-| 🇫🇷&nbsp;**[CarteBlanche](https://sepehrime.github.io/CarteBlanche/)** | A game-like French flashcard app with 1,000 everyday expressions, spaced repetition, streaks, XP, and collectible stamps. No account or server needed.                         | HTML · CSS · JavaScript                             |
-| 👀&nbsp;**[GlanceAway](https://github.com/sepehrime/GlanceAway)**     | A macOS focus timer that reminds you to look away from the screen and rest your eyes between work sessions.                                                                    | Python · Tkinter · PyInstaller                      |
+| 🧠&nbsp;**<a href="https://github.com/sepehrime/Imagine" target="_blank" rel="noopener noreferrer">Imagine</a>** | _Inside the Network_: an interactive explainer of how neural networks work. Build a network, run data through it, train it, and watch every weight change live in the browser. | React · FastAPI · PyTorch · Tailwind · Playwright   |
+| 🛢️&nbsp;**<a href="https://github.com/sepehrime/WellLogQ-A" target="_blank" rel="noopener noreferrer">WellLogQ&#8209;A</a>** | Ask plain-English questions about a well log (LAS file). An LLM picks which tool to run, and plain Python computes every number, so answers stay traceable.                    | Python · pandas · Plotly · OpenRouter LLMs · pytest |
+| 🇫🇷&nbsp;<a href="https://sepehrime.github.io/CarteBlanche/" target="_blank" rel="noopener noreferrer"><strong>CarteBlanche</strong></a> | A game-like French flashcard app with 1,000 everyday expressions, spaced repetition, streaks, XP, and collectible stamps. No account or server needed.                         | HTML · CSS · JavaScript                             |
+| 👀&nbsp;**<a href="https://github.com/sepehrime/GlanceAway" target="_blank" rel="noopener noreferrer">GlanceAway</a>** | A macOS focus timer that reminds you to look away from the screen and rest your eyes between work sessions.                                                                    | Python · Tkinter · PyInstaller                      |
 
 ### Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jaysepehri/"><img alt="LinkedIn Badge" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white" /></a>
-  <a href="https://github.com/sepehrime"><img alt="GitHub Badge" src="https://img.shields.io/badge/-sepehrime-0d1117?style=flat&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/jaysepehri/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn Badge" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white" /></a>
+  <a href="https://github.com/sepehrime" target="_blank" rel="noopener noreferrer"><img alt="GitHub Badge" src="https://img.shields.io/badge/-sepehrime-0d1117?style=flat&logo=github" /></a>
   <a href="mailto:sepehri.jay@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-sepehri.jay-c14438?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -35,11 +35,11 @@
 
 **Programming Languages & Frameworks**
 
-[![Programming Languages](https://skillicons.dev/icons?i=py,pytorch,sklearn,js,react,html,css,bootstrap,sqlite,bash)](https://skillicons.dev)
+<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img alt="Programming Languages" src="https://skillicons.dev/icons?i=py,pytorch,sklearn,js,react,html,css,bootstrap,sqlite,bash" /></a>
 
 **Tools & Environment**
 
-[![Tools](https://skillicons.dev/icons?i=pycharm,vscode,git,github,linux,docker)](https://skillicons.dev)
+<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img alt="Tools" src="https://skillicons.dev/icons?i=pycharm,vscode,git,github,linux,docker" /></a>
 
 ### GitHub Stats
 
