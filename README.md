@@ -23,9 +23,17 @@
 | 🇫🇷&nbsp;<a href="https://sepehrime.github.io/CarteBlanche/" target="_blank" rel="noopener noreferrer"><strong>CarteBlanche</strong></a> | A game-like French flashcard app with 1,000 everyday expressions, spaced repetition, streaks, XP, and collectible stamps. No account or server needed.                         | HTML · CSS · JavaScript                             |
 | 👀&nbsp;**<a href="https://github.com/sepehrime/GlanceAway" target="_blank" rel="noopener noreferrer">GlanceAway</a>** | A macOS focus timer that reminds you to look away from the screen and rest your eyes between work sessions.                                                                    | Python · Tkinter · PyInstaller                      |
 
+### Other Projects
+
+- 🎨 **<a href="https://sepehrime.github.io/abstraite/" target="_blank" rel="noopener noreferrer">Abstraite</a>**: Generates Bauhaus-style abstract geometric art in the browser. Each piece comes from a seed and can be shared with a link.
+- 🚀 **<a href="https://sepehrime.github.io/space-log/" target="_blank" rel="noopener noreferrer">Space Log</a>**: A space-themed game for learning git.
+- ✨ **<a href="https://sepehrime.github.io/JS-Interactive/" target="_blank" rel="noopener noreferrer">JavaScript, Made Visible</a>**: Interactive challenges that show how JavaScript changes a web page.
+- 📓 **<a href="https://github.com/sepehrime/JS-daily" target="_blank" rel="noopener noreferrer">JS-daily</a>**: My daily JavaScript practice, covering loops, events, and small exercises.
+
 ### Socials
 
 <p align="left">
+  <a href="https://sepehrime.github.io/" target="_blank" rel="noopener noreferrer"><img alt="Website Badge" src="https://img.shields.io/badge/-sepehrime.github.io-2E97F7?style=flat&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jaysepehri/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn Badge" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white" /></a>
   <a href="https://github.com/sepehrime" target="_blank" rel="noopener noreferrer"><img alt="GitHub Badge" src="https://img.shields.io/badge/-sepehrime-0d1117?style=flat&logo=github" /></a>
   <a href="mailto:sepehri.jay@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-sepehri.jay-c14438?style=flat&logo=gmail&logoColor=white" /></a>
