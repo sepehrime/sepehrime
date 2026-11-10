@@ -30,7 +30,7 @@
 - 🎨 **<a href="https://sepehrime.github.io/abstraite/" target="_blank" rel="noopener noreferrer">Abstraite</a>**: Generates Bauhaus-style abstract geometric art in the browser. Each piece comes from a seed and can be shared with a link.
 - 🚀 **<a href="https://sepehrime.github.io/space-log/" target="_blank" rel="noopener noreferrer">Space Log</a>**: A space-themed game for learning git.
 - ✨ **<a href="https://sepehrime.github.io/JS-Interactive/" target="_blank" rel="noopener noreferrer">JavaScript, Made Visible</a>**: Interactive challenges that show how JavaScript changes a web page.
-- 📓 **<a href="https://github.com/sepehrime/JS-daily" target="_blank" rel="noopener noreferrer">JS-daily</a>**: My daily JavaScript practice, covering loops, events, and small exercises.
+- 💻 **<a href="https://github.com/sepehrime/Terminal-Quest" target="_blank" rel="noopener noreferrer">Terminal Quest</a>**: A game that teaches terminal commands. You play by running real commands in a safe sandbox folder.
 
 ### Socials
 
