@@ -4,6 +4,10 @@
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Web+Developer;Python%2C+SQL+%26+JavaScript;AI+Solutions+Integrator;From+Oil+%26+Gas+to+Web+Development" />
 </p>
 
+<p align="center">
+  🌐 <a href="https://sepehrime.github.io/" target="_blank" rel="noopener noreferrer"><strong>sepehrime.github.io</strong></a>
+</p>
+
 ---
 
 ### About Me
@@ -16,12 +20,10 @@
 
 ### Featured Projects
 
-| Project                                                          | What it is                                                                                                                                                                     | Built with                                          |
-| :--------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------- |
-| 🧠&nbsp;**<a href="https://github.com/sepehrime/Imagine" target="_blank" rel="noopener noreferrer">Imagine</a>** | _Inside the Network_: an interactive explainer of how neural networks work. Build a network, run data through it, train it, and watch every weight change live in the browser. | React · FastAPI · PyTorch · Tailwind · Playwright   |
-| 🛢️&nbsp;**<a href="https://github.com/sepehrime/WellLogQ-A" target="_blank" rel="noopener noreferrer">WellLogQ&#8209;A</a>** | Ask plain-English questions about a well log (LAS file). An LLM picks which tool to run, and plain Python computes every number, so answers stay traceable.                    | Python · pandas · Plotly · OpenRouter LLMs · pytest |
-| 🇫🇷&nbsp;<a href="https://sepehrime.github.io/CarteBlanche/" target="_blank" rel="noopener noreferrer"><strong>CarteBlanche</strong></a> | A game-like French flashcard app with 1,000 everyday expressions, spaced repetition, streaks, XP, and collectible stamps. No account or server needed.                         | HTML · CSS · JavaScript                             |
-| 👀&nbsp;**<a href="https://github.com/sepehrime/GlanceAway" target="_blank" rel="noopener noreferrer">GlanceAway</a>** | A macOS focus timer that reminds you to look away from the screen and rest your eyes between work sessions.                                                                    | Python · Tkinter · PyInstaller                      |
+- 🧠 **<a href="https://github.com/sepehrime/Imagine" target="_blank" rel="noopener noreferrer">Imagine</a>**: An interactive explainer of how neural networks work. Build a network, train it, and watch every weight change live. _React · FastAPI · PyTorch_
+- 🛢️ **<a href="https://github.com/sepehrime/WellLogQ-A" target="_blank" rel="noopener noreferrer">WellLogQ&#8209;A</a>**: Ask plain-English questions about a well log (LAS file). An LLM picks the tool, and Python computes every number. _Python · pandas · Plotly_
+- 🇫🇷 **<a href="https://sepehrime.github.io/CarteBlanche/" target="_blank" rel="noopener noreferrer">CarteBlanche</a>**: A game-like French flashcard app with 1,000 everyday expressions, spaced repetition, and streaks. _HTML · CSS · JavaScript_
+- 👀 **<a href="https://github.com/sepehrime/GlanceAway" target="_blank" rel="noopener noreferrer">GlanceAway</a>**: A macOS focus timer that reminds you to look away from the screen and rest your eyes. _Python · Tkinter_
 
 ### Other Projects
 
